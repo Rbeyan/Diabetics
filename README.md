@@ -9,9 +9,10 @@ The project is based on previous projects [RL-Project](https://github.com/miopp2
 
 To install the repository and all required packages:
 
-"""git clone https://github.com/Rbeyan/Diabetics"""
+'''ruby
+git clone https://github.com/Rbeyan/Diabetics
 cd Diabetics
 pip install -r package-list.txt
-"""
+'''
 
 
