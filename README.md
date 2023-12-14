@@ -1,14 +1,10 @@
-# Diabetics
-Project for diabetics management
+#Insulin advisor with meal announcement using deep Reinforcement Learning
+Project for diabetics management by YR,NL,PB
+This project aims to compare two RL models, one without meal detection and one with meal detection. 
+For this purpose the basic implementations the [T1D simulator](https://github.com/jxx123/simglucose) was used. 
+The project is based on previous projects [RL-Project](https://github.com/miopp2/diabetes-RL-project/tree/main) and [Meal Detection](https://github.com/bodging/DiabetsTechMeatDetection) which were updated (due to simglucose updates), adapted and combined.
 
-read by Pim Bouwmeester
+#Installation
 
-read by Nicolai Lévy
 
-References
-[1] C. Hettiarachchi, N. Malagutti, C. Nolan, E. Daskalaki, and H. Suominen, “A Reinforcement Learning Based System
-for Blood Glucose Control without Carbohydrate Estimation in Type 1 Diabetes: In Silico Validation,” IEEE
-Engineering in Medicine and Biology Society. Annual International Conference, vol. 2022, pp. 950–956, Jul. 2022.
-[2] Daniels, John, Pau Herrero, and Pantelis Georgiou. "A deep learning framework for automatic meal detection and
-estimation in artificial pancreas systems." Sensors 22.2 (2022): 466.
-[3] Jinyu Xie. Simglucose v0.2.1 (2018) [Online]. Available: https://github.com/jxx123/simglucose. Accessed on: MonthDate-Year.
+
