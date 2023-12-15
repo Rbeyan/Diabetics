@@ -12,8 +12,12 @@ To install the repository and all required packages:
 ```bash
 git clone https://github.com/Rbeyan/Diabetics
 cd Diabetics
-pip install -r package-list.txt
+
+pip install simglucose
+pip install gym==0.21
+pip install -r requirements2.txt
 ```
+ 
 
 # Results
 
