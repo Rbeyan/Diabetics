@@ -23,7 +23,7 @@ pip install -r requirements2.txt
 
 The model is successfully updated and made compatible with new simglucose Simulator environment.   
 The meal detection is rewritten into Pytorch to ensure compatibility.    
-The fine-tuning of the parameters was not successfull therefore no comparison could be made.
+The fine-tuning of the parameters was not successfull therefore no comparison could be made. The models are located in RL_models_results.
 
 
 
